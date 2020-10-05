@@ -1,0 +1,10 @@
+.Xil
+*.log
+*.jou
+*.htm
+*.slxc
+
+.ipynb_checkpoints
+vivado/fpga_filter_design
+
+slprj/
